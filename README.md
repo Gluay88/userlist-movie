@@ -51,3 +51,5 @@ User: {
     },
   },
 ```
+
+### Mutation -> Create, Update, Delete
